@@ -1,4 +1,6 @@
-# Lightcurve-detrending-techniques
+# Lightcurve detrending techniques
+
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
 
 ## Cotrending
 Where the shared systematics between all lightcurves are seeked (often using a subset).
